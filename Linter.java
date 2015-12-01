@@ -6,6 +6,7 @@ import java.util.regex.Pattern;
  * Abi Sislo
  * 1444789
  * CS 3861-04
+ *Linter for JavaScript
  */
 public class Linter {
 	public static void main(String [] args){
